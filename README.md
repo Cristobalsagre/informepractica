@@ -1,0 +1,1 @@
+El archivo comprimido incluye diversos tipos de transcripciones: unas realizadas manualmente por profesionales (identificadas como "humano") y otras generadas automáticamente por Whisper. Además, se incorporan los modelos de prompts utilizados para las iteraciones, así como los resultados de los análisis correspondientes.
